@@ -74,3 +74,10 @@ CountryIndex       — encoded country
 ## Dataset
 
 [UCI Online Retail](https://archive.ics.uci.edu/ml/datasets/online+retail)
+
+
+## Collaborators
+
+- Jacques Allison
+- Cedric Manelli
+- Sufyan Nadat
