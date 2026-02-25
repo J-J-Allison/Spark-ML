@@ -15,7 +15,6 @@ End-to-end PySpark project on the UCI Online Retail dataset: customer segmentati
 | Model | Metric | Score |
 |---|---|---|
 | BisectingKMeans (k=3) | Silhouette | 0.74 |
-| GaussianMixture (k=3) | Silhouette | 0.18 |
 | Random Forest | Accuracy | 0.87 |
 | Random Forest | F1 | 0.88 |
 
